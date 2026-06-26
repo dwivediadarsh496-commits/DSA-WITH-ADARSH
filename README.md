@@ -91,19 +91,6 @@ DSA/
 - [ ] Trie
 - [ ] Bit Manipulation
 
-## How To Use This Repository
-
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-github-username>/<repo-name>.git
-```
-
-Move into the project:
-
-```bash
-cd <repo-name>
-```
 
 Open any topic folder and explore the solution files.
 
