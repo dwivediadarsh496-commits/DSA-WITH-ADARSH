@@ -50,10 +50,10 @@ DSA/
 
 | Topic | Status | Problems Solved |
 | --- | --- | --- |
-| Arrays | In Progress | 0 |
-| Strings | In Progress | 0 |
-| Linked List | Planned | 0 |
-| Stack and Queue | Planned | 0 |
+| Arrays | Chal rha hai bhai/bahan | 0 |
+| Strings | Chal rha hai bhai/bahan | 0 |
+| Linked List | Chal rha hai bhai/bahan | 0 |
+| Stack and Queue | Chal rha hai bhai/bahan | 0 |
 | Binary Tree | Planned | 0 |
 | Binary Search Tree | Planned | 0 |
 | Graphs | Planned | 0 |
