@@ -12,30 +12,12 @@ public class DoublyLinkedList {
 
     private Node head;
 
-    public void insertAtHead(int data) {
-        Node newNode = new Node(data);
-        if (head == null) {
-            head = newNode;
-            return;
-        }
-        newNode.next = head;
-        head.prev = newNode;
-        head = newNode;
-    }
-
-    public void displayForward() {
-        Node temp = head;
-        while (temp != null) {
-            System.out.print(temp.data + " <-> ");
-            temp = temp.next;
-        }
-        System.out.println("null");
-    }
+    // TODO: Implement Insert at Head
+    // TODO: Implement Insert at Tail
+    // TODO: Implement Delete Node by Value
+    // TODO: Implement Reverse
 
     public static void main(String[] args) {
-        DoublyLinkedList list = new DoublyLinkedList();
-        list.insertAtHead(20);
-        list.insertAtHead(10);
-        list.displayForward();
+        System.out.println('Doubly Linked List template');
     }
 }

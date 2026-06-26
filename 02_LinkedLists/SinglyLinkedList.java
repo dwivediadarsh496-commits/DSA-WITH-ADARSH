@@ -10,39 +10,14 @@ public class SinglyLinkedList {
 
     private Node head;
 
-    public void insertAtHead(int data) {
-        Node newNode = new Node(data);
-        newNode.next = head;
-        head = newNode;
-    }
-
-    public void insertAtTail(int data) {
-        Node newNode = new Node(data);
-        if (head == null) {
-            head = newNode;
-            return;
-        }
-        Node temp = head;
-        while (temp.next != null) {
-            temp = temp.next;
-        }
-        temp.next = newNode;
-    }
-
-    public void display() {
-        Node temp = head;
-        while (temp != null) {
-            System.out.print(temp.data + " -> ");
-            temp = temp.next;
-        }
-        System.out.println("null");
-    }
+    // TODO: Implement Insert at Head
+    // TODO: Implement Insert at Tail
+    // TODO: Implement Delete Node by Value
+    // TODO: Implement Reverse (Iterative & Recursive)
+    // TODO: Implement Cycle Detection
+    // TODO: Implement Find Middle
 
     public static void main(String[] args) {
-        SinglyLinkedList list = new SinglyLinkedList();
-        list.insertAtHead(2);
-        list.insertAtHead(1);
-        list.insertAtTail(3);
-        list.display();
+        System.out.println('Singly Linked List template');
     }
 }
