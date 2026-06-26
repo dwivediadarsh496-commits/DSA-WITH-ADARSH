@@ -50,10 +50,10 @@ DSA/
 
 | Topic | Status | Problems Solved |
 | --- | --- | --- |
-| Arrays | Chal rha hai bhai/bahan | 0 |
-| Strings | Chal rha hai bhai/bahan | 0 |
-| Linked List | Chal rha hai bhai/bahan | 0 |
-| Stack and Queue | Chal rha hai bhai/bahan | 0 |
+| Arrays | Chal rha hai bhai/bahan |nhi bataunga |
+| Strings | Chal rha hai bhai/bahan | nhi bataunga |
+| Linked List | Chal rha hai bhai/bahan | nhi bataunga |
+| Stack and Queue | Chal rha hai bhai/bahan | nhi bataunga |
 | Binary Tree | Planned | 0 |
 | Binary Search Tree | Planned | 0 |
 | Graphs | Planned | 0 |
@@ -66,13 +66,7 @@ DSA/
 | Heap / Priority Queue | Planned | 0 |
 | Trie | Planned | 0 |
 
-## Problem Index
 
-| No. | Problem | Platform | Topic | Difficulty | Solution | Time | Space |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Two Sum | LeetCode | Array, HashMap | Easy | [Code](./Arrays/two_sum.cpp) | O(n) | O(n) |
-| 2 | Maximum Subarray | LeetCode | Array, Kadane | Medium | [Code](./Arrays/maximum_subarray.cpp) | O(n) | O(1) |
-| 3 | Valid Anagram | LeetCode | String, HashMap | Easy | [Code](./Strings/valid_anagram.cpp) | O(n) | O(1) |
 
 ## Topic Roadmap
 
