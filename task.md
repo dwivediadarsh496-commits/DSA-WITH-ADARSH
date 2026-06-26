@@ -1,0 +1,38 @@
+# Task List - Placement DSA files
+
+- [x] Create `01_Arrays` implementations
+  - [x] `01_Arrays/ArrayOperations.java` (Insert, delete, search, reverse, rotate)
+  - [x] `01_Arrays/ArrayProblems.java` (Kadane's, Two Sum, Merge Intervals)
+- [x] Create `02_LinkedLists` implementations
+  - [x] `02_LinkedLists/SinglyLinkedList.java` (Insert, delete, reverse, cycle detection)
+  - [x] `02_LinkedLists/DoublyLinkedList.java` (Insert, delete, reverse)
+- [x] Create `03_Stacks_and_Queues` implementations
+  - [x] `03_Stacks_and_Queues/StackImplementation.java` (using arrays and linked lists)
+  - [x] `03_Stacks_and_Queues/QueueImplementation.java` (using arrays, linked lists, circular queue)
+  - [x] `03_Stacks_and_Queues/StackQueueProblems.java` (Min Stack, Parentheses Matching, Queue using Stacks)
+- [x] Create `04_Trees` implementations
+  - [x] `04_Trees/BinaryTree.java` (Traversals, height, diameter, views)
+  - [x] `04_Trees/BinarySearchTree.java` (Insert, delete, search, validate BST)
+- [x] Create `05_Heaps_and_Hashing` implementations (Templates)
+  - [x] `05_Heaps_and_Hashing/HeapImplementation.java`
+  - [x] `05_Heaps_and_Hashing/HashingProblems.java`
+- [x] Create `06_Graphs` implementations (Templates)
+  - [x] `06_Graphs/GraphRepresentation.java`
+  - [x] `06_Graphs/GraphAlgorithms.java`
+- [x] Create `07_Recursion_and_Backtracking` implementations (Templates)
+  - [x] `07_Recursion_and_Backtracking/RecursionBasics.java`
+  - [x] `07_Recursion_and_Backtracking/BacktrackingProblems.java`
+- [x] Create `08_DynamicProgramming` implementations (Templates)
+  - [x] `08_DynamicProgramming/DPProblems.java`
+- [x] Create `09_Sorting_and_Searching` implementations (Templates)
+  - [x] `09_Sorting_and_Searching/SortingAlgorithms.java`
+  - [x] `09_Sorting_and_Searching/SearchingApplications.java`
+- [x] Create `10_Strings_and_Trie` implementations (Templates)
+  - [x] `10_Strings_and_Trie/StringAlgorithms.java`
+  - [x] `10_Strings_and_Trie/TrieImplementation.java`
+- [x] Create `11_BitManipulation` implementations (Templates)
+  - [x] `11_BitManipulation/BitOperations.java`
+- [x] Create `12_Greedy` implementations (Templates)
+  - [x] `12_Greedy/GreedyProblems.java`
+- [x] Compilation & Verification
+  - [x] Compiled and verified early implementations
