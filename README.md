@@ -159,3 +159,11 @@ Consistent practice beats last-minute preparation.
 matha kharab karne wala ADARSH
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/dwivediadarsh496-commits/DSA-WITH-ADARSH/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
